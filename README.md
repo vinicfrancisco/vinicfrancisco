@@ -1,4 +1,4 @@
-### Fala galera! 👋🏼
+# Fala galera! 👋🏼
 
 Sou o Vinícius, desenvolvedor full-stack apaixonado 💚 por tecnologia e motivado a usa-la para gerar valor às pessoas e facilitar suas vidas.
 
