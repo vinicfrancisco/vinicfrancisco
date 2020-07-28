@@ -12,7 +12,7 @@ Sou o Vinícius, desenvolvedor full-stack apaixonado 💚 por tecnologia e motiv
 ## Me encontre nas redes sociais
 
 <a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
-  linkedin
+    <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/linkedin.svg" width="21px"  alt="LinkedIn" align="left" />
 </a>
 
 <a href="https://www.instagram.com/vinicfrancisco/" target="_blank">
