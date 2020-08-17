@@ -11,10 +11,10 @@ motivado a usa-la para gerar **valor às pessoas**.
 
 ## Tecnologias
 
-- 🟡 Javascript
-- 🟢 NodeJS
-- 🔵 ReactJS
-- 🟣 React-Native
+- 🟡  Javascript
+- 🟢  NodeJS
+- 🔵  ReactJS
+- 🟣  React-Native
 
 ## Me encontre nas redes sociais
 <a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
