@@ -12,6 +12,7 @@ motivado a usa-la para gerar **valor às pessoas**.
 ## Tecnologias
 
 - 🟡  Javascript
+- 🔵 TypeScript
 - 🟢  NodeJS
 - 🔵  ReactJS
 - 🟣  React-Native
