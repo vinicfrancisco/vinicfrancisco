@@ -13,9 +13,10 @@ motivado a usa-la para gerar **valor às pessoas**.
 
 - 🟡  Javascript
 - 🔵 TypeScript
-- 🟢  NodeJS
-- 🔵  ReactJS
 - 🟣  React-Native
+- 🔵  ReactJS
+- 🟢  NodeJS
+
 
 ## Me encontre nas redes sociais
 <a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
