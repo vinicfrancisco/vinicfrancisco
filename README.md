@@ -4,7 +4,8 @@ Sou o Vinícius, apaixonado 💚 por tecnologia e
 motivado a usa-la para gerar **valor às pessoas**.
 
 ## Ocupação
-- Desenvolvedor Full-Stack na [PRTE](https://prte.com.br/);
+- Desenvolvedor React Native na SpartaLabs;
+- Desenvolvedor Full-Stack JavaScript;
 - Acadêmico de Engenharia de Software na [UDESC - Universidade do Estado de Santa Catarina](https://www.udesc.br/);
 - Jogador de sinuca 🎱 nas horas vagas;
 
@@ -12,7 +13,7 @@ motivado a usa-la para gerar **valor às pessoas**.
 ## Tecnologias
 
 - 🟡  Javascript
-- 🔵 TypeScript
+- 🔵  TypeScript
 - 🟣  React-Native
 - 🔵  ReactJS
 - 🟢  NodeJS
