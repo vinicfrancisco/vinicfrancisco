@@ -4,8 +4,7 @@ Sou o Vinícius, apaixonado 💚 por tecnologia e
 motivado a usa-la para gerar **valor às pessoas**.
 
 ## Ocupação
-- Desenvolvedor React Native na SpartaLabs;
-- Desenvolvedor Full-Stack JavaScript;
+- Desenvolvedor Full-Stack JavaScript na SpartaLabs;
 - Acadêmico de Engenharia de Software na [UDESC - Universidade do Estado de Santa Catarina](https://www.udesc.br/);
 - Jogador de sinuca 🎱 nas horas vagas;
 
