@@ -1,24 +1,16 @@
-# Fala galera! 👋🏼
+# Hello guys! 👋🏼
 
-Sou o Vinícius, apaixonado 💚 por tecnologia e 
-motivado a usa-la para gerar **valor às pessoas**.
-
-## Ocupação
-- Desenvolvedor Full-Stack JavaScript na SpartaLabs;
-- Acadêmico de Engenharia de Software na [UDESC - Universidade do Estado de Santa Catarina](https://www.udesc.br/);
-- Jogador de sinuca 🎱 nas horas vagas;
+Mobile Engineer with experience in building applications for thousands of users, always paying attention to the best UI/UX practices and to performance on different devices. Experience leading a development team as a Tech Lead.
 
 
-## Tecnologias
-
-- 🟡  Javascript
+## Technologies
 - 🔵  TypeScript
 - 🟣  React-Native
 - 🔵  ReactJS
 - 🟢  NodeJS
 
 
-## Me encontre nas redes sociais
+## Find me on Social Medias
 <a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
     <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/linkedin.svg" width="21px"  alt="LinkedIn" align="left" />
 </a>
