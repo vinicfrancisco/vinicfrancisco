@@ -1,6 +1,6 @@
 # Hello guys! 👋🏼
 
-Mobile Engineer with experience in building applications for thousands of users, always paying attention to the best UI/UX practices and to performance on different devices.
+Senior Mobile Engineer with experience in building applications for thousands of users, always paying attention to the best UI/UX practices and performance on different devices. Experience leading a development team as a Tech Lead.
 
 
 ## Technologies
