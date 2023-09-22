@@ -2,26 +2,14 @@
 
 Senior Mobile Engineer with experience in building applications for thousands of users, always paying attention to the best UI/UX practices and performance on different devices. Experience leading a development team as a Tech Lead.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicfrancisco&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Vini's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicfrancisco&layout=compact&theme=dark&hide_border=true" /></a> |
-
 <!--- ## Top Technologies
 - <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> TypeScript
 - <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a> React-Native
 - <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> ReactJS
 - <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> NodeJS --->
 
-## Find me on Social Medias
-<a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/linkedin.svg" width="21px"  alt="LinkedIn" align="left" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicfrancisco&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Vini's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicfrancisco&layout=compact&theme=dark&hide_border=true" /></a> |
 
-<a href="https://www.instagram.com/vinicfrancisco/" target="_blank">
-  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/instagram.svg" width="21px"  alt="Instagram" align="left" />
-</a>
-
-<a href="https://telegram.me/vinicfrancisco" target="_blank">
-  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/telegram.svg" width="21px"  alt="Telegram" align="left" />
-</a>
 
 ## Technologies
 
@@ -69,3 +57,15 @@ Senior Mobile Engineer with experience in building applications for thousands of
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
+## Find me on Social Medias
+<a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
+    <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/linkedin.svg" width="21px"  alt="LinkedIn" align="left" />
+</a>
+
+<a href="https://www.instagram.com/vinicfrancisco/" target="_blank">
+  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/instagram.svg" width="21px"  alt="Instagram" align="left" />
+</a>
+
+<a href="https://telegram.me/vinicfrancisco" target="_blank">
+  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/telegram.svg" width="21px"  alt="Telegram" align="left" />
+</a>
