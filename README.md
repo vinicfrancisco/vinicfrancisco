@@ -10,6 +10,19 @@ Senior Mobile Engineer with experience in building applications for thousands of
 - <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> ReactJS
 - <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> NodeJS --->
 
+## Find me on Social Medias
+<a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
+    <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/linkedin.svg" width="21px"  alt="LinkedIn" align="left" />
+</a>
+
+<a href="https://www.instagram.com/vinicfrancisco/" target="_blank">
+  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/instagram.svg" width="21px"  alt="Instagram" align="left" />
+</a>
+
+<a href="https://telegram.me/vinicfrancisco" target="_blank">
+  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/telegram.svg" width="21px"  alt="Telegram" align="left" />
+</a>
+
 ## Technologies
 
 ### Languages
@@ -56,15 +69,3 @@ Senior Mobile Engineer with experience in building applications for thousands of
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-## Find me on Social Medias
-<a href="https://www.linkedin.com/in/vinicfrancisco/" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/linkedin.svg" width="21px"  alt="LinkedIn" align="left" />
-</a>
-
-<a href="https://www.instagram.com/vinicfrancisco/" target="_blank">
-  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/instagram.svg" width="21px"  alt="Instagram" align="left" />
-</a>
-
-<a href="https://telegram.me/vinicfrancisco" target="_blank">
-  <img src="https://raw.githubusercontent.com/vinicfrancisco/vinicfrancisco/master/assets/telegram.svg" width="21px"  alt="Telegram" align="left" />
-</a>
