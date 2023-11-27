@@ -6,13 +6,13 @@
   <a href="https://telegram.me/vinicfrancisco"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-With over 5+ years of experience in application development, I empower companies to enhance their digital presence and user engagement by delivering robust mobile solutions that drive business growth and operational excellence.
+Senior Software Engineer with 5+ years of experience in application development. I empower companies to enhance their digital presence and user engagement by delivering robust mobile solutions that drive business growth and operational excellence.
 
 - 🧑‍💻 &nbsp; Currently working as a Tech Lead at [Môre Talent Tech](https://www.more.tt/)
 - 💓 &nbsp; Passionate with problem solving and daily routines automation
 - 🛠️ &nbsp; Coding since 2017
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vinicfrancisco/)
-- 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/191lrrOI9i3ybQcb6zXc1u8kSsHzb0jw6/edit?usp=sharing&ouid=108444794660188472885&rtpof=true&sd=true)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/10snYeSqoiDA_NCxhczAeG8glqKXRR11P/view?usp=sharing)
 
 ## Technologies
 
